@@ -1,0 +1,22 @@
+.image-card img{
+    /* width: 60%; */
+    
+    /* border: 1px solid black; */
+    border-radius: 10px;
+}
+
+.text-card{
+    font-family: "Roboto", sans-serif;
+    line-height: 0.3;
+    size: 18px;
+    font-weight: 500;
+}
+
+.para-card{
+    font-family: "Roboto", sans-serif;
+    line-height: 1;
+}
+
+.para-card p{
+    /* cp */
+}

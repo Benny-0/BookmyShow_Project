@@ -1,0 +1,211 @@
+.watch-online h1 {
+ font-family: roboto, sans-serif;
+ font-style: normal;
+ font-size: 14px;
+ font-weight: 400;
+}
+
+.watch-online p{
+    font-family: roboto, sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 400px; 
+    color: rgb(127,127,127);
+   
+}
+.watch-online{
+    width: 65%;
+    padding: 20px;
+    padding-left: 335px;
+    line-height: 1.5;
+    
+}
+
+.list-show{
+    border: 1px solid;
+    
+}
+
+.hut-img{
+
+   width:2.2%;
+   height: 45px;
+}
+
+.flex-list{
+    padding: 5px;
+
+    display: flex;
+    gap: 15px;
+    font-family: roboto, sans-serif;
+    color: white;
+    padding-left: 17.2%;
+}  
+
+.flex-list button{
+    width: 150px;
+    height: 40px;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 2px;
+    position: relative;
+    left: 210px;
+    color: white;
+    background-color: rgb(197, 78, 78);
+    border: hidden;
+    margin: 5px;
+    cursor: pointer;
+}
+.flex-list button:hover{
+    background-color:rgb(197, 59, 59) ;
+}
+.flex-list h1{
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 5px;
+    
+}
+
+.flex-list p{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(233, 223, 223);
+}
+.list-show{
+    background-color: rgb(0, 0, 0);
+}
+
+.pos{
+    border: hidden ;
+    background-color: rgba(43, 42, 42, 0.774);
+    display: flex;
+    gap: 250px;
+    text-align: center;
+
+}
+
+.pos img{
+ width: 50%;
+}
+
+.booking-con img{
+    width: 34%;
+}
+
+.booking-con{
+    border: hidden;
+    text-align: center;
+}
+.pos{
+    
+    padding: 30px;
+    padding-left: 450px;
+}
+
+.pos img{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.pos img:hover{
+    opacity: 0.8;
+}
+
+.pos p{
+    font-family: Roboto,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: aliceblue;
+    cursor: pointer;
+}
+.pos p:hover{
+    color: rgb(202, 197, 197);
+}
+
+.text-con h1{
+ color: rgb(212, 212, 212);
+ font-size: 12px;
+ font-weight: 400;
+}
+
+.text-con p{
+    color: rgb(161, 161, 161);
+    font-size: 11px;
+    font-weight: 400;
+}
+.text-con{
+    font-family: Roboto,sans-serif;
+    padding: 10px;
+    padding-left: 17.2%;
+    width: 65%;
+}
+
+
+.logo {
+    padding-right: 500px;
+}
+
+.divider{
+    display: flex;
+}
+.line1{
+    color: rgb(144, 148, 151);
+    position: relative;
+    bottom: -25px;
+    
+}
+
+.social-media{
+   
+    
+    padding: 15px;
+    padding-top: 10px;
+    padding-left: 41%;
+    display: flex;
+    gap: 15px;
+  
+}
+
+.social-media img{
+    opacity: 0.3;
+    cursor: pointer;
+    width: 3.1%;
+    padding-top: 50px;
+}
+
+.social-media img:hover{
+    opacity: 0.9;
+}
+
+.centre-media{
+    background-color:  black;
+    /* position: relative; */
+    /* top: px; */
+    border: hidden;
+    text-align: center;
+    padding-left: 15px;
+}
+
+.copy-right{
+    padding: 12px;
+    width: 70%;
+    padding-left: 12%;
+}
+
+.copy-right p{
+    font-size: 11px;
+    font-weight: 400;
+    color:  rgb(161, 161, 161);
+}
+
+.logo-p{
+    position: relative;
+    /* top: -20px; */
+    padding-right: 100px;
+}
+
+.relative-top{
+    position: relative;
+    top: -30px;
+}

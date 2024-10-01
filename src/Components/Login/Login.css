@@ -1,0 +1,70 @@
+.Form-a{
+    border: hidden;
+  width: 400px;
+  padding:110px;
+  margin: auto;
+  color:black;
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(201, 44, 44, 0.664);
+  border-radius: 5px;
+  line-height: 2;
+  margin-top: 8%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+  
+}
+
+.Form-a input{
+  padding: 10px;
+  border-radius: 10px;
+  border: hidden;
+  background-color: rgb(236, 235, 235);
+  font-size: 14px;
+  width: 90%;
+  /* color: aliceblue; */
+}
+
+.Form-a button {
+  padding: 7px;
+  width: 95.1%;
+  margin-top: 25px;
+  border: hidden;
+  border-radius: 5px;
+  background-color: black;
+  color: aliceblue;
+  font-size: 13px;
+  font-weight: 400;
+  cursor: pointer;
+ 
+}
+/* .Book-myshow-logos{
+  width: 90%;
+} */
+
+.phone-num{
+  padding-top: 30px;
+}
+.back-ico{
+  background-image: url(../../Assets/Movie\ Tickets_\ Plays_\ Sports_\ Events\ _\ Cinemas\ near\ Coimbatore\ -\ BookMyShow\ Coimbatore_/back-ico.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.book-images img{
+  width: 50%;
+ position: relative;
+ left: 100px;
+ top: -30px;
+}
+
+.form-box{
+  position: relative;
+  right: -10px;
+}
+
+label{
+  color: rgb(240, 243, 245);
+}
+

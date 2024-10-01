@@ -1,0 +1,112 @@
+.navbar-p{
+
+    background-color: rgb(236, 235, 235);
+    padding: 1%;
+    display: flex;
+    gap:18px ;
+    
+}
+.navbar-p a {
+    text-decoration: none;
+    color: black;
+    font-size:14px !important;
+    font-family: "Roboto", sans-serif !important;;
+}
+.Book-myshow-logo{
+    width: 7.9%;
+    height: 40px;
+    padding: 0.5%;
+    cursor: pointer;
+}
+
+.search{
+    align-items: center;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    width: 32%;
+    height: 40px;
+    margin: 2px;
+    padding-left: 10px;
+}
+
+.search input{
+    
+    background: transparent;
+    border: 0;
+    outline: 0;
+    width: 69%;
+    padding-left: 15px;
+    position: relative;
+    top: -5px;
+    color: white;
+    font-size: 14px;
+   
+}
+.bookmyshow{
+    display: flex;
+    gap: 50px;
+    margin: 10px;
+   
+}
+.Searchlogo{
+    width: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+Select {
+    border: hidden;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px !important;;
+    margin-top: 15px;
+    
+} 
+
+
+.Sign-in button{
+    /* padding: 8px; */
+    border-radius: 5px;
+    border: hidden;
+    background-color: rgb(226, 66, 66);
+    color: white;
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+    /* padding-bottom: 12px; */
+}
+
+.Sign-in button:hover{
+    background-color: rgb(165, 25, 25);
+}
+
+.Sign-in{
+    padding-top: 11px;
+    display: flex;
+    gap:20px;
+}
+.bookmyshow{
+    margin-left: 17.4%;
+}
+
+.selec-sign{
+    display: flex;
+    gap: 20px;
+    padding-left: 18%;
+}
+.navbar-p{
+    padding-left: 17.6%;
+}
+
+.sign-a{
+    position: relative;
+    top:-3px;
+}
+
+.Sign-in img{
+    width: 53%;
+    position: relative;
+    top:-3px;
+    
+
+}

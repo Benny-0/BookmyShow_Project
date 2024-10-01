@@ -1,0 +1,42 @@
+
+
+.might{
+    margin: 15px;
+    line-height: 50px;
+   
+}
+
+.might-hh{
+    font-size: 24px;
+    font-weight: 700;
+   
+}
+.watch-card img{
+border-radius: 10px;
+
+}
+
+.watch-card h1{
+ font-size: 18px;
+ font-weight: 500px;
+}
+
+.watch-card {
+    width: 88%;
+    line-height:0.9;
+
+}
+.watch-card p{
+    font-size: 16px;
+    font-weight: 400;
+    color: 
+    rgb(102, 102, 102);
+}
+
+.colour{
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,0.13769257703081228) 45%, rgba(255,255,255,1) 83%);
+position: relative;
+top: -18px;
+padding-left: 260px;
+}
