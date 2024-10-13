@@ -29,10 +29,13 @@ import Frriday from '../../Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas
 import Forward from  '../../Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas near Coimbatore - BookMyShow Coimbatore_/forward.png'
 import Backward from '../../Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas near Coimbatore - BookMyShow Coimbatore_/backward.png'
 import Footer from '../Footer/Footer'
+// import axios from axios;
 
 
 
 function Moviebooking() {
+  
+// axios.get("http://127.0.0.1:8000/api/student") 
   const [scrollPosition,SetScrollPosition] = useState(0)
   const Cardss= [
     {img:Monday, title: 'Power of Gods and Lords', language: 'English'},

@@ -3,7 +3,6 @@ import './Navbar.css'
 import logo from "../../../src/Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas near Coimbatore - BookMyShow Coimbatore_/logo.png"
 import search from "../../Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas near Coimbatore - BookMyShow Coimbatore_/download.jpeg"
 import Logo8 from "../../Assets/Movie Tickets_ Plays_ Sports_ Events _ Cinemas near Coimbatore - BookMyShow Coimbatore_/icons8.png"
-import Footer from '../../Components/Footer/Footer'
 
 
 import { Link, useNavigate } from 'react-router-dom'
